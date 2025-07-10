@@ -1,6 +1,7 @@
 ## 1. Clone và cài đặt thư viện
 ```bash
 git clone https://github.com/PhucNT2511/modal_txt2img
+cd ./modal_txt2img
 
 python -m venv .venv
 source .venv/bin/activate
